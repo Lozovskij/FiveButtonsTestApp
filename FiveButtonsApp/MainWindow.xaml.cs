@@ -64,7 +64,7 @@ public partial class MainWindow : Window
     private string GetSavingPath(string fileExtension)
     {
         var fileName = $"{DateTime.Now:yyyyMMddHHmmssfff}_articles_{_readingMode}.{fileExtension}";
-        string folderPath = Path.Combine(Environment.GetFolderPath(Environment.SpecialFolder.MyDocuments), "Ivan Lozovskij Test App");
+        string folderPath = Path.Combine(Environment.GetFolderPath(Environment.SpecialFolder.MyDocuments), "Ivan_Lozovskij_Test_App");
         System.IO.Directory.CreateDirectory(folderPath);
         return Path.Combine(folderPath, fileName);
     }
