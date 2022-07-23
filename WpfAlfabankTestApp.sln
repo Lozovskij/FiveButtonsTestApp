@@ -5,7 +5,7 @@ VisualStudioVersion = 17.0.32014.148
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WpfAlfabankTestApp", "WpfAlfabankTestApp\WpfAlfabankTestApp.csproj", "{B0777E02-93A1-4348-A01F-A0249BA610CA}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ReadersAndWriters", "AlfabankCL\ReadersAndWriters.csproj", "{17B3CB7C-6D70-4806-94EF-705DCAE53F3C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ReadersAndWriters", "ReadersAndWriters\ReadersAndWriters.csproj", "{6C1DB33F-1C19-45BA-91CB-AB8732AED236}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -17,10 +17,10 @@ Global
 		{B0777E02-93A1-4348-A01F-A0249BA610CA}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B0777E02-93A1-4348-A01F-A0249BA610CA}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B0777E02-93A1-4348-A01F-A0249BA610CA}.Release|Any CPU.Build.0 = Release|Any CPU
-		{17B3CB7C-6D70-4806-94EF-705DCAE53F3C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{17B3CB7C-6D70-4806-94EF-705DCAE53F3C}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{17B3CB7C-6D70-4806-94EF-705DCAE53F3C}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{17B3CB7C-6D70-4806-94EF-705DCAE53F3C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6C1DB33F-1C19-45BA-91CB-AB8732AED236}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6C1DB33F-1C19-45BA-91CB-AB8732AED236}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6C1DB33F-1C19-45BA-91CB-AB8732AED236}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6C1DB33F-1C19-45BA-91CB-AB8732AED236}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
